@@ -1,0 +1,31 @@
+_repo: Watch-the-Sky_24558
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schmitz, James H.
+    alias: Schmitz, James Henry
+    birthdate: 1911
+    deathdate: 1981
+    gutenberg_agent_id: '24957'
+    url: http://www.gutenberg.org/2009/agents/24957
+    wikipedia: http://en.wikipedia.org/wiki/James_H._Schmitz
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Forgers -- Fiction'
+title: Watch the Sky
+url: http://www.gutenberg.org/ebooks/24558
